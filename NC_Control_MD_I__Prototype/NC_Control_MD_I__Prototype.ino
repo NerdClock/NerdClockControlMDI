@@ -1,6 +1,7 @@
 // Firmware NCControl MD I 
 // Version: 0.10
 // Copyright: Martin Duerrenberger 2017
+// also on github
 
 // Number of Components
 int componentCount=6;
